@@ -32,10 +32,7 @@ public class UserRatingCatalogController {
 		})
 		.collect(Collectors.toList());
 		
-		/*return new ArrayList<>(Arrays.asList(
-					new CatalogItem("Test", "TestDesc", 3.0),
-					new CatalogItem("Test1", "TestDesc1", 4.0)
-				));*/
+		
 	}
 	
 }
